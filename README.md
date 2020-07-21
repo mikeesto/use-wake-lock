@@ -14,7 +14,7 @@ npm install --save use-wake-lock
 
 ## Usage
 
-TODO: An example page is available [here](). The source code for the example can be found [here]().
+An example page is available [here](https://mikeesto.github.io/use-wake-lock/). The source code for the example can be found [here](https://github.com/mikeesto/use-wake-lock/blob/master/example/src/App.js).
 
 ### Toggle wake lock
 
