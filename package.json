@@ -5,6 +5,9 @@
   "author": "mikeesto",
   "license": "MIT",
   "repository": "mikeesto/use-wake-lock",
+  "files": [
+    "/dist/**"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
